@@ -1,0 +1,57 @@
+.banner-image {
+  width: 8%;
+  float: left;
+}
+
+.site-name {
+  font-size: 28px;
+  margin-bottom: 0%;
+  width: 35%;
+  margin-right: 0%;
+}
+
+.name-under {
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-right: 0%;
+}
+
+.icons {
+  float: right;
+  margin-left: 15%;
+  width: 35%;
+  margin-right: 0%;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.name-under {
+  margin-left: 5%;
+  width: 45%;
+  margin-right: 0%;
+}
+
+.banner {
+  width: 45%;
+  margin-left: 5%;
+}
+
+h1 {
+  margin-bottom: 0%;
+  margin-left: 5%;
+  width: 45%;
+
+}
+
+.post-date {
+  margin-top: 0%;
+  float: left;
+  margin-left: 5%;
+  width: 45%;
+}
+.print {
+  float: right;
+  margin-left: 0%;
+}
