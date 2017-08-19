@@ -25,6 +25,9 @@
 
 .clearfix {
   clear: both;
+  width: 90%;
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
 .name-under {
@@ -54,4 +57,68 @@ h1 {
 .print {
   float: right;
   margin-left: 0%;
+  margin-right: 5%;
+}
+
+.prnt-icon {
+  float: right;
+}
+
+.choco {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 1%;
+}
+
+.main-text {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.ingredients {
+  background-image: url("Image/list-bg.png");
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.left-list {
+  float: left;
+  width: 40%;
+  margin: 0%;
+  list-style-type: square;
+}
+
+ .right-list {
+   float: right;
+   width: 50%;
+   margin: 0%;
+   list-style-type: square;
+ }
+
+ .user-pic {
+   width: 3%;
+
+ }
+
+.foot-text {
+  text-align: center;
+  color: rgb(163, 163, 163);
+}
+
+.button {
+  float: right;
+  margin-right: 5%;
+  width: 15%;
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+}
+
+.main-icons2 {
+margin-left: 7px;
 }
